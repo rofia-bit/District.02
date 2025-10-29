@@ -6,7 +6,7 @@ import { IoLogoInstagram } from "react-icons/io5";
 
 export const TopBar = () => {
   return (
-    <div className=" bg-district-blue text-white">
+    <div className="bg-district-blue text-white">
         <div className="container mx-auto flex justify-between item-center py-3 px-4">
             <div className='hidden md:flex items-center space-x-4'>
                 <a href="" className="hover:text-gray-300">
