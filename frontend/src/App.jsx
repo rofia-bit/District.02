@@ -9,7 +9,6 @@ const App = () => {
         {/** User Layout */}
         </Route>
         <Route>{/*Admin Layout */}</Route>
-      
       </Routes>
     </BrowserRouter>
   );
